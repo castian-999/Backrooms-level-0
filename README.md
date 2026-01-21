@@ -144,3 +144,10 @@ This is a mental endurance test.
 
 If you hear footsteps, voices, or promises of shortcuts, ignore them.
 Keep walking.
+
+## 🕒 Timeline — Level 0
+
+| Date | Summary | Log |
+|-----|--------|-----|
+| 2026-01-21 | Entry into Level 0 | [Log](daily-logs/2026-01-21.md) |
+
