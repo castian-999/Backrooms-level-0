@@ -147,7 +147,7 @@ Keep walking.
 
 ## 📆 Timeline
 
-- [Day 0 - I entered level zero and create this Github](./Day0.md)
+- [Day 0 - I entered level zero and create this Github](./daily-logs/Day0.md)
 
 ## 🌀 Journey Timeline — Level 0
 
