@@ -1,7 +1,4 @@
-# Backrooms-level-0
-Studies
-📚🟨 BACKROOMS: LEVEL 0 – STUDY RPG
-Overview
+# 📚🟨 BACKROOMS: LEVEL 0 – STUDY RPG
 
 Backrooms: Level 0 – Study RPG is a long-term study marathon structured as a psychological RPG inspired by Level 0 of the Backrooms.
 
@@ -16,13 +13,10 @@ Level 0 represents the beginning.
 
 A space that is:
 
-non-linear
-
-silent
-
-repetitive
-
-psychologically exhausting
+- non-linear  
+- silent  
+- repetitive  
+- psychologically exhausting  
 
 Just like studying, you move forward without clear signs of progress, return to familiar places, experience déjà vu, and question your direction.
 
@@ -147,13 +141,14 @@ Keep walking.
 
 ## 📆 Timeline
 
-- [Day 0 - I entered level zero and create this Github](./daily-logs/Day0.md)
+- [Day 0 — Entry into Level 0](./daily-logs/Day0.md)
+
 
 ## 🌀 Journey Timeline — Level 0
 
 ```mermaid
 timeline
     title Journey through Level 0
-    2026-01-21 : I entered level zero. 
+    2026-01-21 : 🚪 Entered Level 0 — Project created. First contact with the environment.
 
 
