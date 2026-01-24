@@ -1,4 +1,4 @@
-# Day 3 — Level 0 Log
+# Day 2 — Level 0 Log
 
 **Date:** 2026-01-24  
 **Location:** Level 0 — Study Zone
