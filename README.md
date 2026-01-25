@@ -155,5 +155,6 @@ timeline
     2026-01-21 : 🚪 Entered Level 0 — Project created. First contact with the environment.
     2026-01-22 : 🧭 Day 1 — Preparation phase. Materials organized. No movement, but orientation improved.
     2026-01-24 : 📘 Day 2 — First mathematical contact. Chapter 1 (Sets) read. Initial exercises completed. Progress started, not finished.
+    2026-01-24 : 🟨 Day 3 — Still inside the same room. Exercises almost completed. Progress slow, but stable.
 
 
