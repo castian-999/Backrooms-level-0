@@ -145,6 +145,7 @@ Keep walking.
 - [Day 1 — Preparation inside Level 0](./daily-logs/Day1.md)
 - [Day 2 — First mathematical contact.](./daily-logs/Day2.md)
 - [Day 3 - Still inside the same room. Exercises almost completed. Progress slow, but stable.](./daily-logs/Day3.md).
+- [Day 4 -  Chapter 1 (Sets) exercises completed. Corrections pending.](./daily-logs/Day4.md).
 
 
 
