@@ -160,7 +160,6 @@ timeline
     2026-01-24 : 📘 Day 2 — First mathematical contact. Chapter 1 (Sets) read. Initial exercises completed. Progress started, not finished.
     2026-01-24 : 🟨 Day 3 — Still inside the same room. Exercises almost completed. Progress slow, but stable.
     2026-01-25 : 📐 Day 4 — Chapter 1 (Sets) exercises completed. Corrections pending. Pace slowed intentionally to adapt to the routine.
-timeline
     2026-01-26 : 🎂 Day 5 — No study activity. Birthday. Conscious pause without breaking the system.
 
 
