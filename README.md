@@ -147,6 +147,7 @@ Keep walking.
 - [Day 3 - Still inside the same room. Exercises almost completed. Progress slow, but stable.](./daily-logs/Day3.md).
 - [Day 4 -  Chapter 1 (Sets) exercises completed. Corrections pending.](./daily-logs/Day4.md).
 - [Day 4 - Birthday](./daily-logs/Day5.md).
+- [Day 5 - Corrections completed. Chapter 1 (Sets) fully cleared. First room officially finished.](./daily-logs/Day6.md).
 
 
 
@@ -161,6 +162,8 @@ timeline
     2026-01-24 : 🟨 Day 3 — Still inside the same room. Exercises almost completed. Progress slow, but stable.
     2026-01-25 : 📐 Day 4 — Chapter 1 (Sets) exercises completed. Corrections pending. Pace slowed intentionally to adapt to the routine.
     2026-01-26 : 🎂 Day 5 — No study activity. Birthday. Conscious pause without breaking the system.
+    2026-01-26 : ✅ Day 6 — Corrections completed. Chapter 1 (Sets) fully cleared. First room officially finished.
+
 
 
 
